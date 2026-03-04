@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "lovestepを踏みたいの",
+  "base_artist": "Susumu",
+  "createdAt": "2026-03-04T13:29:26.305483Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "lovestepを踏みたいの",
+      "artist": "susumu.",
+      "has_synced": false,
+      "path": "select/pl_01_lovestepを踏みたいの_susumu..txt"
+    }
+  ]
+}
